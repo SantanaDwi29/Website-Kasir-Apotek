@@ -1,4 +1,4 @@
-![CodeIgniter Logo](assets/codeigniter.png)
+![CodeIgniter](assets/codeigniter.png)
 
 ###################
 What is CodeIgniter
