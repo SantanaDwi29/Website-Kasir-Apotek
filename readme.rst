@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/codeigniter.png" alt="" width="200"/>
+</p>
 ###################
 What is CodeIgniter
 ###################
