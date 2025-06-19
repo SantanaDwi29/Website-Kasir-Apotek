@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="assets/codeigniter.png" alt="" width="200"/>
-</p>
+![CodeIgniter Logo](assets/codeigniter.png)
+
 ###################
 What is CodeIgniter
 ###################
