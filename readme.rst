@@ -1,5 +1,3 @@
-![CodeIgniter](assets/codeigniter.png)
-
 ###################
 What is CodeIgniter
 ###################
